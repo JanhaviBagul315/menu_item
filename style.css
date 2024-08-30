@@ -1,0 +1,44 @@
+/* body {
+  background-image: url(asset/Profile1.png);
+} */
+#main {
+  border: 1px solid black;
+  margin: auto;
+  width: 350px;
+  height: 350px;
+  /* padding-top: 150px; */
+  border-radius: 10px;
+}
+#img {
+  height: 250px;
+  width: 330px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  border-radius: 8%;
+}
+#img_desc {
+  padding-left: 10px;
+}
+#best-seller {
+  color: rgb(2, 81, 81);
+  font-weight: bolder;
+  background-color: rgb(216, 239, 242);
+  padding: 3px 5px 3px 5px;
+  border-radius: 8px;
+  border: 1px solid rgb(42, 137, 4);
+  position: absolute;
+  top: 40px;
+  left: 620px;
+}
+#must_try {
+  color: rgb(2, 81, 81);
+  font-weight: bolder;
+  background-color: rgb(216, 239, 242);
+  padding: 3px 5px 3px 5px;
+  border-radius: 8px;
+  border: 1px solid rgb(42, 137, 4);
+  position: absolute;
+  bottom: 430px;
+  right: 620px;
+}
